@@ -1,15 +1,14 @@
 ```console
 DanyMusica@github:~$ ./welcome.sh
-```
 
-```
 -----------------------------------
  < Welcome to my GitHub profile! >
 -----------------------------------
 ```
 
 ```console
-DanyMusica@github:~$
+DanyMusica@github:~$ ./bio.sh
+
 -------------------------
 🏫 BEng Computer engineering student @Alma Mater Studiorum - UniBo
 📍 Bologna, Italy
