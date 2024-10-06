@@ -8,8 +8,8 @@ DanyMusica@github:~$ ./welcome.sh
 -----------------------------------
 ```
 
-```
-DanyMusica@github
+```console
+DanyMusica@github:~$
 -------------------------
 🏫 BEng Computer engineering student @Alma Mater Studiorum - UniBo
 📍 Bologna, Italy
