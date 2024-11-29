@@ -10,10 +10,11 @@ DanyMusica@github:~$ ./welcome.sh
 DanyMusica@github:~$ ./bio.sh
 
 -------------------------
-🏫 BEng Computer engineering student @Alma Mater Studiorum - UniBo
+🏫 BEng Computer engineering student @ Alma Mater Studiorum - UniBo
 📍 Bologna, Italy
 🔎 Interests: Music production, CG broadcast graphics development, TV production
-💻 Programming Languages: Python, C, Java, JavaScript
+💻 Programming Languages: C, Java, Python, JavaScript, TypeScript
+🌐 Markup and Format Languages: HTML, XML, JSON, Markdown
 🗣️ Languages: Italian, English
 🎵 Music: Italian pop, song production on Logic Pro
 -------------------------
