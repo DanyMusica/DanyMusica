@@ -4,9 +4,7 @@ DanyMusica@github:~$ ./welcome.sh
 -----------------------------------
  < Welcome to my GitHub profile! >
 -----------------------------------
-```
 
-```console
 DanyMusica@github:~$ ./bio.sh
 
 -------------------------
@@ -19,4 +17,6 @@ DanyMusica@github:~$ ./bio.sh
 🗣️ Languages: Italian, English
 🎵 Music: Italian pop, song production on Logic Pro
 -------------------------
+
+DanyMusica@github:~$ 
 ```
